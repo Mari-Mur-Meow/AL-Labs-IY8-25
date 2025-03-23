@@ -1,0 +1,14 @@
+ Deque = default
+FIO: Michail Labkovcky , Name: "I vont, i do it", Publish: STO, Year: 2020, Pages: 569
+FIO: Labkovsky , Name: ZOO in me head , Publish: ART , Year: 2023, Pages: 603
+FIO: Agata Mitchel, Name: Gone witch the wind, Publish: MSK, Year: 1961, Pages: 506
+
+ Deque = sort
+FIO: Agata Mitchel, Name: Gone witch the wind, Publish: MSK, Year: 1961, Pages: 506
+FIO: Labkovsky , Name: ZOO in me head , Publish: ART , Year: 2023, Pages: 603
+FIO: Michail Labkovcky , Name: "I vont, i do it", Publish: STO, Year: 2020, Pages: 569
+
+ List
+FIO: Agata Mitchel, Name: Gone witch the wind, Publish: MSK, Year: 1961, Pages: 506
+FIO: Labkovsky , Name: ZOO in me head , Publish: ART , Year: 2023, Pages: 603
+FIO: Michail Labkovcky , Name: "I vont, i do it", Publish: STO, Year: 2020, Pages: 569
